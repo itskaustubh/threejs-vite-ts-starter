@@ -6,6 +6,9 @@ Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
 ``` bash
+# Clone into local
+git clone https://github.com/itskaustubh/threejs-vite-ts-starter.git
+
 # Install dependencies (only the first time)
 yarn 
 
