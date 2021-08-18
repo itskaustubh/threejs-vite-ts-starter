@@ -8,6 +8,7 @@ Run this followed commands:
 ``` bash
 # Clone into local
 git clone https://github.com/itskaustubh/threejs-vite-ts-starter.git
+cd threejs-vite-ts-starter
 
 # Install dependencies (only the first time)
 yarn 
